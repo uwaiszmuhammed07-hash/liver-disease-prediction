@@ -65,6 +65,7 @@ The application provides a simple and interactive interface where users can inpu
 
 ## 📂 Project Structure
 
+```
 liver-disease-prediction/
 │
 ├── app.py
@@ -81,6 +82,7 @@ liver-disease-prediction/
 │
 └── notebook/
 └── liver_patient_prediction.ipynb
+```
 
 
 ---
@@ -92,6 +94,31 @@ liver-disease-prediction/
 git clone https://github.com/uwaiszmuhammed07-hash/liver-disease-prediction.git
 cd liver-disease-prediction
 
-### 2. Create virtual environment
+### Step 2 — Create Virtual Environment
+```bash
+python -m venv venv
+source venv/bin/activate       
+        
+```
+
+### Step 3 — Install Requirements
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4 — Run the App
+```bash
+streamlit run app.py
+```
+
+### Step 5 — Open in Browser
+```
+http://localhost:8501
+```
+
+
+``
+
+
 
 
