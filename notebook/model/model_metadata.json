@@ -1,0 +1,8 @@
+{
+  "best_model": "Random Forest (Tuned)",
+  "target_mapping": {
+    "Liver Disease": 1,
+    "No Liver Disease": 0
+  },
+  "source_csv": "../Data/Indian Liver Patient Dataset (ILPD).csv"
+}
