@@ -119,6 +119,36 @@ http://localhost:8501
 
 ``
 
+##📈 Output
+
+The application predicts:
+
+✅ No Liver Disease
+⚠️ Liver Disease Detected
+
+It also shows:
+
+Prediction probability
+Input summary
+
+##📈 Key Insights
+SMOTE improved class balance significantly
+Random Forest handled feature interactions better
+Feature importance showed bilirubin & enzymes as key indicators
+Scaling improved performance for certain models
+
+##⚠️ Disclaimer
+
+This project is for educational purposes only.
+It is not a substitute for professional medical advice.
+
+##👨‍💻 Author
+
+Uwais Muhammed KP
+GitHub**
+[![GitHub](https://img.shields.io/badge/GitHub-uwaiszmuhammed07--hash-black?logo=github)](https://github.com/uwaiszmuhammed07-hash)
+---
+
 
 
 
