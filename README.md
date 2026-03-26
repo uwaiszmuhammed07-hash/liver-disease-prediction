@@ -65,3 +65,30 @@ The application provides a simple and interactive interface where users can inpu
 
 ## 📂 Project Structure
 
+liver-disease-prediction/
+│
+├── app.py
+├── requirements.txt
+├── .python-version
+├── model/
+│ ├── liver_model.pkl
+│ ├── scaler.pkl
+│ ├── feature_names.json
+│ └── model_metadata.json
+│
+├── Data/
+│ └── dataset.csv
+│
+└── notebook/
+└── liver_patient_prediction.ipynb
+
+
+---
+
+## ▶️ Run Locally
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/uwaiszmuhammed07-hash/liver-disease-prediction.git
+cd liver-disease-prediction
+
