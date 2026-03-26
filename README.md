@@ -91,7 +91,7 @@ liver-disease-prediction/
 ### Step 1 — Clone the Repository
 ```bash
 git clone https://github.com/uwaiszmuhammed07-hash/liver-disease-prediction.git
-cd RiceLeaf-Disease-Detector
+cd liver-disease-prediction
 ```
 
 ### Step 2 — Create Virtual Environment
