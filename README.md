@@ -120,7 +120,7 @@ http://localhost:8501
 
 
 
-##📈 Output
+📈 Output
 
 The application predicts:
 
@@ -132,13 +132,13 @@ It also shows:
 Prediction probability
 Input summary
 
-##📈 Key Insights
-SMOTE improved class balance significantly
-Random Forest handled feature interactions better
-Feature importance showed bilirubin & enzymes as key indicators
-Scaling improved performance for certain models
+📈 Key Insights
+-SMOTE improved class balance significantly
+-Random Forest handled feature interactions better
+-Feature importance showed bilirubin & enzymes as key indicators
+-Scaling improved performance for certain models
 
-##⚠️ Disclaimer
+⚠️ Disclaimer
 
 This project is for educational purposes only.
 It is not a substitute for professional medical advice.
