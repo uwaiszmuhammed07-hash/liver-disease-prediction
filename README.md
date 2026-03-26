@@ -92,3 +92,6 @@ liver-disease-prediction/
 git clone https://github.com/uwaiszmuhammed07-hash/liver-disease-prediction.git
 cd liver-disease-prediction
 
+### 2. Create virtual environment
+
+
