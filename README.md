@@ -94,11 +94,10 @@ liver-disease-prediction/
 git clone https://github.com/uwaiszmuhammed07-hash/liver-disease-prediction.git
 cd liver-disease-prediction
 
-### Step 2 — Create Virtual Environment
+### Step 2. Create virtual environment
 ```bash
-python -m venv venv
-source venv/bin/activate       
-        
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 ### Step 3 — Install Requirements
