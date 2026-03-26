@@ -86,18 +86,18 @@ liver-disease-prediction/
 
 
 ---
+## 🚀 How to Run Locally
 
-## ▶️ Run Locally
-
-### 1. Clone the repository
+### Step 1 — Clone the Repository
 ```bash
 git clone https://github.com/uwaiszmuhammed07-hash/liver-disease-prediction.git
-cd liver-disease-prediction
+cd RiceLeaf-Disease-Detector
+```
 
-### Step 2. Create virtual environment
+### Step 2 — Create Virtual Environment
 ```bash
-python3 -m venv venv
-source venv/bin/activate
+python -m venv venv
+source venv/bin/activate        
 ```
 
 ### Step 3 — Install Requirements
@@ -116,7 +116,9 @@ http://localhost:8501
 ```
 
 
-``
+
+
+
 
 ##📈 Output
 
