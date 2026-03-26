@@ -129,7 +129,7 @@ The application predicts:
 
 It also shows:
 
-Prediction probability
+Prediction probability and
 Input summary
 
 📈 Key Insights
